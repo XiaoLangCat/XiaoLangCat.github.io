@@ -4,6 +4,56 @@
   
     
     <entry>
+      <title>苹果电脑 MacOs ClashX 配置教程：添加订阅链接</title>
+      <link href="/posts/55740.html"/>
+      <url>/posts/55740.html</url>
+      
+        <content type="html"><![CDATA[<p>下载 ClashX: </p><p>方式一：点击：<a href="https://github.com/yichengchen/clashX/releases">https://github.com/yichengchen/clashX/releases</a>  下载最新版本，如下图所示：<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2020-07-20_030154.png"></p><p>方式二：如果下载很慢，就链接打开这个网站，<a href="https://curl.oeo.workers.dev/" title="https://curl.oeo.workers.dev/">https://curl.oeo.workers.dev/</a>，然后把具体需要下载的软件的下载链接地址（右击需要下载的软件，然后复制链接地址）粘贴在这个网站里面的“Github文件加速”下面的输入框里，然后点击下载即可。如下面这样：<br><a href="https://curl.oeo.workers.dev/https://github.com/Kr328/ClashForAndroid/releases/download/v2.0.18/app-x86_64-release.apk%EF%BC%8C%E5%85%B6%E5%AE%9E%E5%B0%B1%E6%98%AF%E5%9C%A8%E5%85%B7%E4%BD%93%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%E5%89%8D%E9%9D%A2%E5%8A%A0">https://curl.oeo.workers.dev/https://github.com/Kr328/ClashForAndroid/releases/download/v2.0.18/app-x86_64-release.apk，其实就是在具体软件的下载链接地址前面加</a>   <a href="https://curl.oeo.workers.dev/">https://curl.oeo.workers.dev/</a>    </p><p>方式三：链接打开这个文件服务器，直接选择相应的系统目录去里面下载对应的软件即可。 <a href="http://soft.mrzhangfish.ml:8000/" title="http://soft.mrzhangfish.ml:8000/">http://soft.mrzhangfish.ml:8000/</a></p><p>如果还是下载不了，记得联系站长微信：mrzhangfish 索取软件。</p><p>clashX安装好之后，就去 <a href="https://www.mrzhangfish.ml/">https://www.mrzhangfish.ml/</a> 该网站注册账户，目前新用户首次注册之后，会有50G的免费的流量，如果不是重度视频狂魔，估计一个月也足够使用了。介于海外服务器带宽流量昂贵，所以该网站目前已禁止新用户注册，需要的朋友请添加我个人微信：mrzhangfish ，授权之后可以进行注册。</p><p>ClashX配置V2ray教程</p><p> 双击下载的dmg文件，把ClashX.app拖到Application文件夹：<br>安装ClashX<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/%E5%AE%89%E8%A3%85ClashX.jpg"></p><p> 从“启动台” 或者 “聚焦搜索” 找到ClashX并打开。首次打开会出现安全提示，点击“打开”：<br>ClashX运行安全提示<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/ClashX%E8%BF%90%E8%A1%8C%E5%AE%89%E5%85%A8%E6%8F%90%E7%A4%BA.jpg"></p><p>首次运行还会提示安装辅助程序，点击“安装”<br>：clashX需要安装辅助程序<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/clashX%E9%9C%80%E8%A6%81%E5%AE%89%E8%A3%85%E8%BE%85%E5%8A%A9%E7%A8%8B%E5%BA%8F.jpeg"></p><p>添加订阅地址，点击状态栏上小猫咪图标-》配置-》托管配置-》管理，在弹窗中点击“添加”，然后输入订阅链接URL，点击确定，等待ClashX更新订阅信息</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/ClashX%E7%AE%A1%E7%90%86%E8%AE%A2%E9%98%85.png"></p><p>订阅地址，在上面注册的网站里面，如下图所示</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/%E6%8D%95%E8%8E%B7.PNG"></p><p>点击状态栏上小猫咪图标-》控制台，进入ClashX主界面：<br>ClashX主界面<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/ClashX%E4%B8%BB%E7%95%8C%E9%9D%A2.jpg"></p><p> 在主界面选择代理规则：</p><p>PROXY选择使用的节点：默认是“自动选择快速节点”，也可以指定使用某个节点。</p><p>“Final”选择默认规则：DIRECT表示直连，PROXY走代理。个人建议使用直连，网站打不开再选择代理。</p><p>其他看不懂的东西保持默认就好了。</p><p>在主界面点击“设置”，设置启用系统代理和选择代理模式：<br>ClashX设置<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/ClashX%E8%AE%BE%E7%BD%AE.jpg"></p><p>代理模式有全局、规则和直连，(可以认为)对应其他客户端的全局模式、PAC模式和禁用系统代理。绝大多数情况建议使用规则模式。</p><p>配置无误的话，接下来就可以顺利上外网了。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 翻墙 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 翻墙 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>苹果电脑 MacOs ClashX 配置教程：添加订阅链接</title>
+      <link href="/posts/55741.html"/>
+      <url>/posts/55741.html</url>
+      
+        <content type="html"><![CDATA[<p>下载 ClashX: </p><p>方式一：点击：<a href="https://github.com/yichengchen/clashX/releases">https://github.com/yichengchen/clashX/releases</a>  下载最新版本，如下图所示：<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2020-07-20_030154.png"></p><p>方式二：如果下载很慢，就链接打开这个网站，<a href="https://curl.oeo.workers.dev/" title="https://curl.oeo.workers.dev/">https://curl.oeo.workers.dev/</a>，然后把具体需要下载的软件的下载链接地址（右击需要下载的软件，然后复制链接地址）粘贴在这个网站里面的“Github文件加速”下面的输入框里，然后点击下载即可。如下面这样：<br><a href="https://curl.oeo.workers.dev/https://github.com/Kr328/ClashForAndroid/releases/download/v2.0.18/app-x86_64-release.apk%EF%BC%8C%E5%85%B6%E5%AE%9E%E5%B0%B1%E6%98%AF%E5%9C%A8%E5%85%B7%E4%BD%93%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%E5%89%8D%E9%9D%A2%E5%8A%A0">https://curl.oeo.workers.dev/https://github.com/Kr328/ClashForAndroid/releases/download/v2.0.18/app-x86_64-release.apk，其实就是在具体软件的下载链接地址前面加</a>   <a href="https://curl.oeo.workers.dev/">https://curl.oeo.workers.dev/</a>    </p><p>方式三：链接打开这个文件服务器，直接选择相应的系统目录去里面下载对应的软件即可。 <a href="http://soft.mrzhangfish.ml:8000/" title="http://soft.mrzhangfish.ml:8000/">http://soft.mrzhangfish.ml:8000/</a></p><p>如果还是下载不了，记得联系站长微信：mrzhangfish 索取软件。</p><p>clashX安装好之后，就去 <a href="https://www.mrzhangfish.ml/">https://www.mrzhangfish.ml/</a> 该网站注册账户，目前新用户首次注册之后，会有50G的免费的流量，如果不是重度视频狂魔，估计一个月也足够使用了。介于海外服务器带宽流量昂贵，所以该网站目前已禁止新用户注册，需要的朋友请添加我个人微信：mrzhangfish ，授权之后可以进行注册。</p><p>ClashX配置V2ray教程</p><p> 双击下载的dmg文件，把ClashX.app拖到Application文件夹：<br>安装ClashX<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/%E5%AE%89%E8%A3%85ClashX.jpg"></p><p> 从“启动台” 或者 “聚焦搜索” 找到ClashX并打开。首次打开会出现安全提示，点击“打开”：<br>ClashX运行安全提示<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/ClashX%E8%BF%90%E8%A1%8C%E5%AE%89%E5%85%A8%E6%8F%90%E7%A4%BA.jpg"></p><p>首次运行还会提示安装辅助程序，点击“安装”<br>：clashX需要安装辅助程序<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/clashX%E9%9C%80%E8%A6%81%E5%AE%89%E8%A3%85%E8%BE%85%E5%8A%A9%E7%A8%8B%E5%BA%8F.jpeg"></p><p>添加订阅地址，点击状态栏上小猫咪图标-》配置-》托管配置-》管理，在弹窗中点击“添加”，然后输入订阅链接URL，点击确定，等待ClashX更新订阅信息</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/ClashX%E7%AE%A1%E7%90%86%E8%AE%A2%E9%98%85.png"></p><p>订阅地址，在上面注册的网站里面，如下图所示</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/%E6%8D%95%E8%8E%B7.PNG"></p><p>点击状态栏上小猫咪图标-》控制台，进入ClashX主界面：<br>ClashX主界面<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/ClashX%E4%B8%BB%E7%95%8C%E9%9D%A2.jpg"></p><p> 在主界面选择代理规则：</p><p>PROXY选择使用的节点：默认是“自动选择快速节点”，也可以指定使用某个节点。</p><p>“Final”选择默认规则：DIRECT表示直连，PROXY走代理。个人建议使用直连，网站打不开再选择代理。</p><p>其他看不懂的东西保持默认就好了。</p><p>在主界面点击“设置”，设置启用系统代理和选择代理模式：<br>ClashX设置<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/ClashX%E8%AE%BE%E7%BD%AE.jpg"></p><p>代理模式有全局、规则和直连，(可以认为)对应其他客户端的全局模式、PAC模式和禁用系统代理。绝大多数情况建议使用规则模式。</p><p>配置无误的话，接下来就可以顺利上外网了。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 翻墙 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 翻墙 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>苹果 IOS shadowrocket 小火箭“添加订阅”使用详细教程</title>
       <link href="/posts/28614.html"/>
       <url>/posts/28614.html</url>
