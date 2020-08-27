@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>苹果 IOS shadowrocket 小火箭“添加订阅”使用详细教程</title>
+      <link href="/posts/28614.html"/>
+      <url>/posts/28614.html</url>
+      
+        <content type="html"><![CDATA[<p>下面是小火箭添加订阅地址和下载安装的方法 ：</p><p>目前iOS端，小火箭Shadowrocket已经下架了，所以Shadowrocket的下载安装，需要用美区的appleid，大家没有的话，可以去淘宝网购买美区appleid，或者添加我个人微信：mrzhangfish    我个人的美区appleid 可以提供给大家使用，但是仅提供小火箭的下载。登录到自己的苹果账号，然后去app store 下载小火箭就行了，请务必看准了下载，小火箭名称是： Shadowrocket   不是其他同名的app, 该app 是2.99美元，但是我这边已经下载过了，所以就给大家免费下载使用。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/%E6%8D%95%E8%8E%B72.PNG"></p><p>小火箭安装好之后，就去 <a href="https://www.mrzhangfish.ml/">https://www.mrzhangfish.ml/</a> 该网站注册账户，目前新用户首次注册之后，会有50G的免费的流量，如果不是重度视频狂魔，估计一个月也足够使用了。介于海外服务器带宽流量昂贵，所以该网站目前已禁止新用户注册，需要的朋友请添加我个人微信：mrzhangfish ，授权之后可以进行注册。</p><p>注册好账户之后，打开手机端的小火箭</p><p>点开右上角的 “+” 即可添加订阅地址或者配置文件，如下图我以添加订阅地址为例。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/111.jpg"></p><p>接着点开 “类型” 如下图</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/333.jpg"></p><p>接着在类型找到 “ subscribe (订阅) ” 如下图</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/222.jpg"></p><p>接着在URL处填写订阅地址，备注任意方便自己记住，最后点右上角的“ 完成” 如下图</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/444.jpg"></p><p>订阅地址，在上面注册的网站里面，如下图所示</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/%E6%8D%95%E8%8E%B7.PNG"></p><p>最后测试一下节点的延迟，如显示超时则表示该节点不能用，找到延迟比较低的连接，如下图</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/E5VZHUCVENZ7_Z1Z4O@R.png"></p><p>全局路由那里，选择“代理”，最后，点击最上面的连接按钮，变绿即可，在连接时弹出来这个选“ Allow (允许) ” 如下图</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/555.jpg"></p><p>最后把更新打开，如下图</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/%E6%9B%B4%E6%96%B0.jpg"></p><p>最后，请检查手机的最上面是否有  vpn   , 有则代表顺利连接。</p><p>总结：</p><p>打开小火箭Shadowrocket，点击右上角加号 + ，出现此页面，将类型改为 Subscribe，添加你的获得的订阅地址粘贴到URL中，然后点击右上角完成即可。此时会显示更新中，更新成功后，小火箭首页就会出现几个节点。选择其中的可以用的节点，打开开关即可上网。</p><p>在小火箭Shadowrocket中：设置–服务器订阅中打开【打开时更新】选项，即可更新订阅。</p><p>如果网速较慢，可以多点击“连通性测试” ，选择时间短的就行连接即可。</p><p>不需要时，选择关闭“连接”按钮即可，为灰色，或者直接后台退出小火箭即可。</p><p>本教程为详细使用操作教程，以后不再进行手把手教，请仔细查看该教程操作。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 翻墙 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 翻墙 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>曾经神坛巅峰的美剧《行尸走肉》烂尾已成定局，类《行尸走肉》衍生剧，你看好哪个？</title>
       <link href="/posts/33940.html"/>
       <url>/posts/33940.html</url>
