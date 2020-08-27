@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>windows电脑v2ray客户端添加订阅地址教程</title>
+      <link href="/posts/22544.html"/>
+      <url>/posts/22544.html</url>
+      
+        <content type="html"><![CDATA[<p>v2ray 客户端下载：</p><p>方式一：地址：<a href="https://tlanyan.me/download.php?filename=/v2/windows/v2rayN-v3.21.zip">https://tlanyan.me/download.php?filename=/v2/windows/v2rayN-v3.21.zip</a>  </p><p>方式二：链接打开这个文件服务器，直接选择相应的系统目录去里面下载对应的软件即可。 <a href="http://soft.mrzhangfish.ml:8000/" title="http://soft.mrzhangfish.ml:8000/">http://soft.mrzhangfish.ml:8000/</a></p><p> 下载好之后解压即可，然后双击蓝色的  v2rayN.exe   打开客户端即可。</p><p>v2rayN 客户端打开之后，就去 <a href="https://www.mrzhangfish.ml/">https://www.mrzhangfish.ml/</a>该网站注册账户，目前新用户首次注册之后，会有50G的免费的流量，如果不是重度视频狂魔，估计一个月也足够使用了。介于海外服务器带宽流量昂贵，所以该网站目前已禁止新用户注册，需要的朋友请添加我个人微信：mrzhangfish ，授权之后可以进行注册。</p><p>windows电脑v2ray客户端添加订阅地址：</p><p>当你打开v2ray客户端时会在电脑右下角有一个 “蓝色背景V” 的图标，鼠标左键单击打开，如下图<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/MWYZ9O06ACR6@LHOR.png"></p><p>接着点开v2ray客户端左上角的 “订阅” 并在下拉选“订阅设置” 如下图<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/C02UOW54HXYJ737GP4.png"></p><p>可一次添加多个订阅地址，添加完成点右下角的 “确定” 如下图<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/4YBSEK3L_ZPCGFZNMBEK.png"></p><p>订阅地址，在上面注册的网站里面，如下图所示</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/%E6%8D%95%E8%8E%B7.PNG"></p><p>接着在左上角的“订阅”下拉选“更新订阅” 如下图<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/NJY3W8JMU@2P44BB_53.png"></p><p>最后在传输协议选项里找到协议为“WS”的连接比较稳定，如下图<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/V2S3QIF@EGTS2PZS9RY.png"></p><p>任选一个ws节点(原则上任意一个节点均可以，只是速度不同而已)并右键单击“设为活动服务器” ，或者选中，按回车键即可，如下图</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/226OYU7JT_POEHQ3VMU3.png"></p><p>接着右键单击电脑桌面右下角的v2ray 选 “启用http代理” 这时可以打开谷歌了，如下图</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2GXIMA@BZFFAN5EQ0PEC2.png"></p><p>接着右键单击电脑桌面右下角的v2ray 选“ 开启PAC模式 ” 如下图<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/UY69YAJU94XIDKJ0@B.png"></p><p>个别时候有的网址在PAC模式下无法打开那么需要开启全局模式才可以。</p><p>v2ray 客户端支持中英文操作界面，点开 “帮助” 可进行切换，如下图<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/%E8%AF%AD%E8%A8%80%E5%88%87%E6%8D%A2.png"></p><p>推荐使用 Chrome 浏览器冲浪，记得打开浏览器的代理，如果 Chrome 浏览器没有自带的代理，那么可以安装  Proxy SwitchyOmega  扩展插件</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 翻墙 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 翻墙 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>安卓系统 v2rayNG 添加订阅详细教程</title>
       <link href="/posts/46704.html"/>
       <url>/posts/46704.html</url>
