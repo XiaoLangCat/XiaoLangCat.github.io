@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blogs.gooutside.website/"/>
-  <updated>2020-09-04T09:32:46.248Z</updated>
+  <updated>2020-09-05T17:03:35.265Z</updated>
   <id>https://blogs.gooutside.website/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blogs.gooutside.website/posts/3113.html"/>
     <id>https://blogs.gooutside.website/posts/3113.html</id>
     <published>2020-09-03T18:09:14.316Z</published>
-    <updated>2020-09-04T09:32:46.248Z</updated>
+    <updated>2020-09-05T17:03:35.265Z</updated>
     
     <summary type="html">
     
@@ -468,33 +468,6 @@
     
     
       <category term="vps" scheme="https://blogs.gooutside.website/tags/vps/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test_my_site</title>
-    <link href="https://blogs.gooutside.website/posts/f6b1.html"/>
-    <id>https://blogs.gooutside.website/posts/f6b1.html</id>
-    <published>2020-08-02T17:27:27.000Z</published>
-    <updated>2020-08-02T20:38:27.525Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;script&gt;
-        document.querySelectorAll(&#39;.github-emoji&#39;)
-          .forEach(el =&gt; {
-            if (!el.dataset.src) { return; }
-       
-        
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
