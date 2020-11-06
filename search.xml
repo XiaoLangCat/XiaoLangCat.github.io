@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Clash(R) for Windows 教程，可能是Windows上最好用的代理工具</title>
+      <link href="/posts/55933.html"/>
+      <url>/posts/55933.html</url>
+      
+        <content type="html"><![CDATA[<p>1，下载和安装 Clash for Windows</p><p>方式一：下载地址：<a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" title="https://github.com/Fndroid/clash_for_windows_pkg/releases">https://github.com/Fndroid/clash_for_windows_pkg/releases</a><br>下载最新版本的.exe文件或者.7z文件包即可。 </p><p>方式二： 如果下载很慢，就链接打开这个网站，<a href="https://curl.oeo.workers.dev/" title="https://curl.oeo.workers.dev/">https://curl.oeo.workers.dev/</a>，然后把具体需要下载的软件的下载链接地址（右击需要下载的软件，然后复制链接地址）粘贴在这个网站里面的“Github文件加速”下面的输入框里，然后点击下载即可。如下面这样：<br><a href="https://curl.oeo.workers.dev/https://github.com/Kr328/ClashForAndroid/releases/download/v2.0.18/app-x86_64-release.apk%EF%BC%8C%E5%85%B6%E5%AE%9E%E5%B0%B1%E6%98%AF%E5%9C%A8%E5%85%B7%E4%BD%93%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%E5%89%8D%E9%9D%A2%E5%8A%A0">https://curl.oeo.workers.dev/https://github.com/Kr328/ClashForAndroid/releases/download/v2.0.18/app-x86_64-release.apk，其实就是在具体软件的下载链接地址前面加</a>   <a href="https://curl.oeo.workers.dev/">https://curl.oeo.workers.dev/</a>    </p><p>方式三：链接打开这个文件服务器，直接选择相应的系统目录去里面下载对应的软件即可。 <a href="http://soft.mrzhangfish.ml:8000/" title="http://soft.mrzhangfish.ml:8000/">http://soft.mrzhangfish.ml:8000/</a></p><p>如果还是下载不了，记得联系站长微信：mrzhangfish 索取软件。</p><p>2，快速配置 Clash for Windows</p><p>clash安装好之后，就去 <a href="https://www.mrzhangfish.ml/" title="https://www.mrzhangfish.ml/">https://www.mrzhangfish.ml/</a> 该网站注册账户，目前新用户首次注册之后，会有50G的免费的流量，如果不是重度视频狂魔，估计一个月也足够使用了。介于海外服务器带宽流量昂贵，所以该网站目前已禁止新用户注册，需要的朋友请添加我个人微信：mrzhangfish ，授权之后可以进行注册。</p><p>注册完成之后在该网站把节点订阅链接地址复制出来，如下图所示。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/%E6%8D%95%E8%8E%B7.PNG"></p><img src="./subscribeSite.PNG"><p>然后，打开 Clash for Windows 应用程序，在左侧的标签页中选择「Profiles」， 在顶部输入您的 Clash 订阅链接 ，然后点击「Download」按钮。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2740814687.png" alt="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2740814687.png" title="ss"></p><p>Clash for Windows 会自动拉取配置文件进行更新，如果一切顺利，你应当可以看到绿色提示信息「Success!」，并且可以看到一个新增的配置文件：</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/3855380524.png" alt="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/3855380524.png" title="ss"></p><p>点击新增的配置文件来切换到该配置，然后点击「Proxies」标签页来切换接入点，将顶部的出站模式选择为「Rule」。<br>此模式下你的网络访问请求将通过 Clash for Winows 进行分流处理，选中“自动选择即可”。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2020-08-17_145757.png"></p><p>3， 启动 Clash for Windows</p><p>返回到「General」部分，将「System Proxy」的开关更改为绿色或「On」状态即可开始使用。此外，建议将「Start with Windows」也更改为绿色或「On」来让 Clash for Windows 在开机时自动启动。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2672875580.png" alt="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2672875580.png" title="ss"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 翻墙 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 翻墙 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>当华为Mate 40遇上iPhone 12，你选谁？</title>
       <link href="/posts/36862.html"/>
       <url>/posts/36862.html</url>
@@ -284,31 +309,6 @@
       <url>/posts/21055.html</url>
       
         <content type="html"><![CDATA[<p>1，下载安装</p><p>方式一：<a href="https://github.com/Kr328/ClashForAndroid/releases" title="https://github.com/Kr328/ClashForAndroid/releases">https://github.com/Kr328/ClashForAndroid/releases</a> 选择<br>app-arm64-v8a-release.apk 这个包下载安装即可，或者任何一个包均可。</p><p>方式二：如果下载很慢，就链接打开这个网站，<a href="https://curl.oeo.workers.dev/" title="https://curl.oeo.workers.dev/">https://curl.oeo.workers.dev/</a>，然后把具体需要下载的软件的下载链接地址（右击需要下载的软件，然后复制链接地址）粘贴在这个网站里面的“Github文件加速”下面的输入框里，然后点击下载即可。如下面这样：<br><a href="https://curl.oeo.workers.dev/https://github.com/Kr328/ClashForAndroid/releases/download/v2.0.18/app-x86_64-release.apk%EF%BC%8C%E5%85%B6%E5%AE%9E%E5%B0%B1%E6%98%AF%E5%9C%A8%E5%85%B7%E4%BD%93%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%E5%89%8D%E9%9D%A2%E5%8A%A0">https://curl.oeo.workers.dev/https://github.com/Kr328/ClashForAndroid/releases/download/v2.0.18/app-x86_64-release.apk，其实就是在具体软件的下载链接地址前面加</a>   <a href="https://curl.oeo.workers.dev/">https://curl.oeo.workers.dev/</a>   </p><p>方式三：链接打开这个文件服务器，直接选择相应的系统目录去里面下载对应的软件即可。 <a href="http://soft.mrzhangfish.ml:8000/" title="http://soft.mrzhangfish.ml:8000/">http://soft.mrzhangfish.ml:8000/</a></p><p>如果还是下载不了，记得联系站长微信：mrzhangfish 索取软件。</p><p>语言设置路径：Settings → Interface → Language → Simplified Chinese</p><p>2，快速添加订阅链接</p><p>clash安装好之后，就去 <a href="https://www.mrzhangfish.ml/" title="https://www.mrzhangfish.ml/">https://www.mrzhangfish.ml/</a> 该网站注册账户，目前新用户首次注册之后，会有50G的免费的流量，如果不是重度视频狂魔，估计一个月也足够使用了。介于海外服务器带宽流量昂贵，所以该网站目前已禁止新用户注册，需要的朋友请添加我个人微信：mrzhangfish ，授权之后可以进行注册。</p><p>注册完成之后在该网站把节点订阅链接地址复制出来，如下图所示。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/%E6%8D%95%E8%8E%B7.PNG"></p><p>复制好了Clash订阅之后打开Clash for Android应用程序。请点击配置。</p><p>请在新弹出的窗口中点击新配置。<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/1118270140.jpg"></p><p>然后选择从URL导入。在对应地方填写订阅地址并保存。<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2169466048.jpg"></p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/3843008539.jpg"></p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/932669651.jpg"></p><p>点击节点右侧的三个点按钮，可以修改订阅设置。如图：<br><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/1168337143.jpg"></p><p>提示：机场服务器信息可能会不定时更新，若出现大面积节点超时现象，可尝试刷新订阅。<br>返回首页。点击开关，即可进行代理。会提示是否同意创建VPN，请点击允许。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2409469823.jpg"></p><p>开启代理后，可以点击中间的代理选项卡，进入策略组面板，在这里可以切换节点。直接点击你想要的节点即可进行切换，或者直接选择“自动选择”这个即可。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2753500055.jpg"></p><p>点击⚡图标可以进行延迟测试，测试结果将显示在节点名称右侧。</p><p>点击右上角的三个点按钮，可以进入更多设置：<br>刷新订阅<br>更改代理模式<br>改变代理组（策略组）排序<br>改变代理（节点）排序<br>前缀合并（即节点名字前缀相同的进行归类显示）</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/550116317.jpg"></p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/838427780.jpg"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> 翻墙 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 翻墙 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Clash(R) for Windows 教程，可能是Windows上最好用的代理工具</title>
-      <link href="/posts/55933.html"/>
-      <url>/posts/55933.html</url>
-      
-        <content type="html"><![CDATA[<p>1，下载和安装 Clash for Windows</p><p>方式一：下载地址：<a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" title="https://github.com/Fndroid/clash_for_windows_pkg/releases">https://github.com/Fndroid/clash_for_windows_pkg/releases</a><br>下载最新版本的.exe文件或者.7z文件包即可。 </p><p>方式二： 如果下载很慢，就链接打开这个网站，<a href="https://curl.oeo.workers.dev/" title="https://curl.oeo.workers.dev/">https://curl.oeo.workers.dev/</a>，然后把具体需要下载的软件的下载链接地址（右击需要下载的软件，然后复制链接地址）粘贴在这个网站里面的“Github文件加速”下面的输入框里，然后点击下载即可。如下面这样：<br><a href="https://curl.oeo.workers.dev/https://github.com/Kr328/ClashForAndroid/releases/download/v2.0.18/app-x86_64-release.apk%EF%BC%8C%E5%85%B6%E5%AE%9E%E5%B0%B1%E6%98%AF%E5%9C%A8%E5%85%B7%E4%BD%93%E8%BD%AF%E4%BB%B6%E7%9A%84%E4%B8%8B%E8%BD%BD%E9%93%BE%E6%8E%A5%E5%9C%B0%E5%9D%80%E5%89%8D%E9%9D%A2%E5%8A%A0">https://curl.oeo.workers.dev/https://github.com/Kr328/ClashForAndroid/releases/download/v2.0.18/app-x86_64-release.apk，其实就是在具体软件的下载链接地址前面加</a>   <a href="https://curl.oeo.workers.dev/">https://curl.oeo.workers.dev/</a>    </p><p>方式三：链接打开这个文件服务器，直接选择相应的系统目录去里面下载对应的软件即可。 <a href="http://soft.mrzhangfish.ml:8000/" title="http://soft.mrzhangfish.ml:8000/">http://soft.mrzhangfish.ml:8000/</a></p><p>如果还是下载不了，记得联系站长微信：mrzhangfish 索取软件。</p><p>2，快速配置 Clash for Windows</p><p>clash安装好之后，就去 <a href="https://www.mrzhangfish.ml/" title="https://www.mrzhangfish.ml/">https://www.mrzhangfish.ml/</a> 该网站注册账户，目前新用户首次注册之后，会有50G的免费的流量，如果不是重度视频狂魔，估计一个月也足够使用了。介于海外服务器带宽流量昂贵，所以该网站目前已禁止新用户注册，需要的朋友请添加我个人微信：mrzhangfish ，授权之后可以进行注册。</p><p>注册完成之后在该网站把节点订阅链接地址复制出来，如下图所示。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/%E6%8D%95%E8%8E%B7.PNG"></p><p>然后，打开 Clash for Windows 应用程序，在左侧的标签页中选择「Profiles」， 在顶部输入您的 Clash 订阅链接 ，然后点击「Download」按钮。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2740814687.png" alt="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2740814687.png" title="ss"></p><p>Clash for Windows 会自动拉取配置文件进行更新，如果一切顺利，你应当可以看到绿色提示信息「Success!」，并且可以看到一个新增的配置文件：</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/3855380524.png" alt="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/3855380524.png" title="ss"></p><p>点击新增的配置文件来切换到该配置，然后点击「Proxies」标签页来切换接入点，将顶部的出站模式选择为「Rule」。<br>此模式下你的网络访问请求将通过 Clash for Winows 进行分流处理，选中“自动选择即可”。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2020-08-17_145757.png"></p><p>3， 启动 Clash for Windows</p><p>返回到「General」部分，将「System Proxy」的开关更改为绿色或「On」状态即可开始使用。此外，建议将「Start with Windows」也更改为绿色或「On」来让 Clash for Windows 在开机时自动启动。</p><p><img src="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2672875580.png" alt="https://cdn.jsdelivr.net/gh/XiaoLangCat/repo/images/2672875580.png" title="ss"></p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       <categories>
